@@ -1,2 +1,5 @@
 # hello-world
-my first repository
+
+Hi Brodas!
+
+its me ur broda here, I lke JS13 
